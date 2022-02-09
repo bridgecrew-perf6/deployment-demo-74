@@ -15,3 +15,8 @@ h1 {
 p {
   color: coral;
 }
+
+img {
+  height: 300px;
+  width: 300px;
+}
